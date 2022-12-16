@@ -187,22 +187,22 @@ body{
     }
     .reach{
         background-image: url('personalized.png');
-        height: 630px;
-        width: 1520px;
+        height: 39.375rem;
+        width: 95rem;
         padding-left: 6.25rem;
         padding-top: 6.25rem;
     }
     .reach-in{
         background-color: white;
-        height: 480px;
-        width: 1300px;
+        height: 30rem;
+        width: 81.25rem;
         background-position: right;
-        border-radius: 30px;
+        border-radius: 1.875rem;
         
     }
     .img3{
-        height: 480px;
-        width:550px;
+        height: 30rem;
+        width:34.375;
         float: left;
     }
     .reach-content{
