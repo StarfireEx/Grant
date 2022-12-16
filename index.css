@@ -45,7 +45,7 @@ body{
 .cont{
     background-image: url("bannerbg.png");
     color: white;
-    background-size: 100% 42.5rem;
+    background-size: 95rem 42.5rem;
     position: relative;
     background-repeat: no-repeat;
     
@@ -171,8 +171,8 @@ body{
         
     }
     img{
-        height:220px ;
-    width:420px;
+        height:13.75rem ;
+    width:26.25rem;
     padding: 0;
 
     
