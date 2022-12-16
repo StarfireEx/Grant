@@ -6,36 +6,37 @@
     
     
 }
+
 .topbar{
-    padding-top: 20px;
+    padding-top: 1.25rem;
     
     
    
-    height: 40px;
-    padding-bottom: 40px;
+    height: 2.5rem;
+    padding-bottom: 2.5rem;
 
 }
 .topbar a{
     
 
     text-decoration: none;
-    font-size: 17px;
-    padding-right: 50px;
+    font-size: 1.063rem;
+    padding-right: 3.125rem;
     
-    margin-left: 50px;
+    margin-left: 3.125rem;
     color:white;
 }
 .h1{
-    margin-top: 100px;
+    margin-top: 6.25rem;
     font-weight: bold;
-    margin-left: 40px;
+    margin-left: 2.5rem;
 }
 .h2{
-    margin-left: 40px;
+    margin-left: 2.5rem;
     
 }
 h3{
-    padding-right: 25px;
+    padding-right: 1.563rem;
 }
 body{
     font-family: sans-serif;
@@ -44,7 +45,8 @@ body{
 .cont{
     background-image: url("bannerbg.png");
     color: white;
-    background-size: 1550px 680px;
+    background-size: 100% 42.5rem;
+    position: relative;
     background-repeat: no-repeat;
     
 
@@ -57,8 +59,8 @@ body{
 
 }
 .b2{
-    height:25px;
-    width:25px;
+    height:1.563rem;
+    width:1.563rem;
     padding-left: 1rem;
     
 }
@@ -69,11 +71,11 @@ body{
     background-color: rgb(245, 60, 60);
     color: white;
     border: none;
-    font-size: 15px;
-    height: 45px;
-    border-radius: 10px;
-    width:190px;
-    margin-left: 40px;
+    font-size: 0.938rem;
+    height: 2.813rem;
+    border-radius: 0.625rem;
+    width:11.875rem;
+    margin-left: 2.5rem;
     
 }
 .exp:hover{
@@ -91,30 +93,30 @@ body{
 .container{
     display: flex;
     justify-content: center;
-    padding: 20px;
+    padding: 1.25rem;
     background-image: url('support.png');
-    padding-right: 20px;
-    gap:20px;
-    height:400px;
+    padding-right: 1.25rem;
+    gap:1.25rem;
+    height:25rem;
 
 }
 .container2{
     display: flex;
     justify-content: center;
-    padding-top: 80px;
+    padding-top: 5rem;
     background-color: white;
-    padding-right: 20px;
-    gap:20px;
-    height:400px;
+    padding-right: 1.25rem;
+    gap:1.25rem;
+    height:25rem;
 
 }
 .card2{
-    height:210px ;
-    width:420px;
+    height:13.125rem;
+    width:26.25rem;
     
     
-    box-shadow: 0 15px 25px 0 rgba(0,0,0,0.2);
-    border-radius: 20px;
+    box-shadow: 0 0.938rem 1.563rem 0 rgba(0,0,0,0.2);
+    border-radius: 1.25rem;
     background-color: white;
     color:black;
     
@@ -123,14 +125,14 @@ body{
     
     }
     .card3{
-        height:360px ;
-        width:470px;
+        height:22.5rem ;
+        width:29.375rem;
         
-        box-shadow: 0 15px 25px 0 rgba(0,0,0,0.2);
-        border-radius: 25px;
+        box-shadow: 0 0.938rem 1.563rem 0 rgba(0,0,0,0.2);
+        border-radius: 1.563rem;
         background-color: white;
         color:black;
-        margin-top: 170px;
+        margin-top: 10.625rem;
         
         text-align: center;
         
@@ -138,11 +140,11 @@ body{
 .card{
     height:210px ;
     width:420px;
-    padding-top: 25px;
-    margin-top: 65px;
+    padding-top: 1.563rem;
+    margin-top: 4.06rem;
     
-    box-shadow: 0 15px 25px 0 rgba(0,0,0,0.2);
-    border-radius: 20px;
+    box-shadow: 0 0.938rem 1.563rem 0 rgba(0,0,0,0.2);
+    border-radius: 1.25rem;
     background-color: white;
     color:black;
     
@@ -151,10 +153,10 @@ body{
     
     }
     .card h3{
-        padding-bottom: 15px;
+        padding-bottom: 0.938rem;
     }
     .p1{
-        padding-top: 15px;
+        padding-top: 0.938rem;
     }
     i{
         color: blue;
@@ -174,9 +176,9 @@ body{
         
     }
     .img2{
-        margin-top: 30px;
+        margin-top: 1.875rem;
         float: right;
-        margin-right: 20px;
+        margin-right: 1.25rem;
         height: 400px;
         width: 700px;
     }
@@ -184,8 +186,8 @@ body{
         background-image: url('personalized.png');
         height: 630px;
         width: 1520px;
-        padding-left: 100px;
-        padding-top: 100px;
+        padding-left: 6.25rem;
+        padding-top: 6.25rem;
     }
     .reach-in{
         background-color: white;
@@ -203,8 +205,8 @@ body{
     .reach-content{
         color: black;
         float: right;
-        margin-top: 120px;
-        gap:30px;
+        margin-top: 7.5rem;
+        gap:1.875rem;
         
     }
     .learn{
@@ -212,7 +214,7 @@ body{
         color: white;
         width:160px;
         height:55px;
-        border-radius: 15px ;
+        border-radius: 0.938rem ;
         border: none;
         
     }
@@ -225,8 +227,8 @@ body{
     .footer-img{
         height:250px;
     width:390px;
-    margin-top:49px;
-    margin-left: 15px;
+    margin-top:3.063rem;
+    margin-left: 0.938rem;
         
     }
     .footer2{
@@ -237,8 +239,8 @@ body{
         
         height:90px;
     width:365px;
-    margin-top: 150px;
-    margin-right: 40px;
+    margin-top: 9.375rem;
+    margin-right: 2.5rem;
     
         
         
@@ -324,29 +326,29 @@ body{
 }
 
 .trust p{
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 .mission{
     background-image: url('mission-process.png');
     
-    background-size: 900px 400px;
+    background-size: 56.25rem 25rem;
     padding: 10em 0;
     background-repeat: no-repeat;
     background-position: right;
 }
 .mission-cont{
-    margin-left: 90px;
+    margin-left: 5.625rem;
 }
 ul{
-    gap:15px;
+    gap:0.938rem;
 }
 .view{
-    width:150px;
-    height: 40px;
+    width:9.375rem;
+    height: 2.5rem;
     background-color:rgb(0, 158, 0);
     color:white;
     border:none;
-    border-radius: 15px;
+    border-radius: 0.938rem;
 }
 .view:hover{
     color:rgb(0, 158, 0);
