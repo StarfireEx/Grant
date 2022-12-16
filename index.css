@@ -141,8 +141,8 @@ body{
         
         }
 .card{
-    height:210px ;
-    width:420px;
+    height:13.125rem ;
+    width:26.25rem;
     padding-top: 1.563rem;
     margin-top: 4.06rem;
     
@@ -215,8 +215,8 @@ body{
     .learn{
         background-color: rgb(245, 60, 60);
         color: white;
-        width:160px;
-        height:55px;
+        width:10rem;
+        height:3.438rem;
         border-radius: 0.938rem ;
         border: none;
         
@@ -228,21 +228,21 @@ body{
 
     }
     .footer-img{
-        height:250px;
-    width:390px;
+        height:15.625rem;
+    width:24.375rem;
     margin-top:3.063rem;
     margin-left: 0.938rem;
         
     }
     .footer2{
         background-image: linear-gradient(75deg,rgb(0, 110, 255) ,#50C878 );
-        height: 250px;
+        height: 15.625rem;
         width:95rem;
     }
     .rapid-logo{
         
-        height:90px;
-    width:365px;
+        height:5.625rem;
+    width:22.813rem;
     margin-top: 9.375rem;
     margin-right: 2.5rem;
     
