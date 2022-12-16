@@ -377,22 +377,22 @@ ul{
 }
 .txt{
     position: absolute;
-    top:2400px;
-    left:40px;
+    top:150rem;
+    left:2.5rem;
     color:white;
     
 }
 .txt2{
     position: absolute;
-    top:2400px;
-    left:540px;
+    top:150rem;
+    left:33.75rem;
     color:white;
     
 }
 .txt3{
     position: absolute;
-    top:2400px;
-    left:1040px;
+    top:150rem;
+    left:65rem;
     color:white;
     
 }
