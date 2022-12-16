@@ -237,6 +237,7 @@ body{
     .footer2{
         background-image: linear-gradient(75deg,rgb(0, 110, 255) ,#50C878 );
         height: 250px;
+        width:95rem;
     }
     .rapid-logo{
         
@@ -262,7 +263,7 @@ body{
     .footer{
         display: flex;
         justify-content: space-between;
-        
+        width:95rem;
     }
     .column{
         
