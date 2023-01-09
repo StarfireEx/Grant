@@ -90,8 +90,24 @@ body{
     
 }
 .txt{
+    padding-top: 20px;
+
+    color:#24344a;
+    padding-bottom: 20px;
+    
+    
     
 }
+.txt2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#24344a;
+    
+}
+.txt3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#24344a;}
 .exp{
     background-color: rgb(245, 60, 60);
     color: white;
@@ -177,7 +193,7 @@ body{
         border-radius: 1.563rem;
         background-color: white;
         color:black;
-        margin-top: 10.625rem;
+        margin-top: 6.625rem;
         
         text-align: center;
         
@@ -295,19 +311,20 @@ body{
         
     }
     .rapid-logo{
-        min-height:4.625rem;
+        min-height:2.625rem;
         max-height: auto;
-        width:25%;
+        width:42%;
         padding-left: 6.25rem;
-    margin-top: 9.375rem;
-    margin-right: 2.5rem;
+    padding-top: 11.375rem;
+    padding-right: 2.5rem;
+    padding-bottom: 20px;
     
         
         
     }
     .footer-contact{
         background-color: #07B773;
-        min-height:15.625rem;
+        min-height:10.625rem;
         max-height: auto;
 width:25%;
         margin-left: 8.125rem;
@@ -333,7 +350,7 @@ width:25%;
     .contact-img{
         height: 110px;
         width:110px;
-        margin-left: 155px;
+        margin-left: 27%;
         margin-bottom: 50px;
     }
 
@@ -432,12 +449,16 @@ ul{
 .more{
     min-width: 10rem;
     max-width: auto;
-    min-height:25rem;
+    min-height:45rem;
     max-height: auto;
     background-color: #e4f2fd;
     display: flex;
     justify-content: center;
     gap:30px;
+    padding-bottom: 115px;
+    padding-left: 20px;
+    padding-right: 20px;
+
 }
 .moreimg{
     min-width: auto;
@@ -451,14 +472,14 @@ ul{
     
     color:red;
     position:absolute;
-    left:10%;
+    
     
     
 }
 .t2{
 
     color:red;
-    left:40%;
+    
 
 
     
@@ -466,7 +487,7 @@ ul{
 .t3{
     
     color:red;
-    left:70%;
+    
     
     
 }
