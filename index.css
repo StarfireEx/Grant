@@ -161,7 +161,7 @@ body{
     max-height: auto;
     min-width: 10rem;
     max-width: auto;
-    padding-bottom: 10.25rem;
+    padding-bottom: 5.25rem;
     
     
 
@@ -172,11 +172,11 @@ body{
     max-width: auto;
     min-height:10rem;
     max-height: auto;
-    
+
     
     box-shadow: 0 0.938rem 1.563rem 0 rgba(0,0,0,0.2);
     border-radius: 1.25rem;
-    background-color: white;
+    background-image:linear-gradient(to right, #DDB653 ,#F8D048 ,#b66163d1);
     color:black;
     
     
@@ -324,8 +324,10 @@ body{
     }
     .footer-contact{
         background-color: #07B773;
-        min-height:10.625rem;
+        min-height:5.625rem;
         max-height: auto;
+        min-width: 5rem;
+        max-width: auto;
 width:25%;
         margin-left: 8.125rem;
     padding-top: 4.375rem;
@@ -466,7 +468,6 @@ ul{
     min-height:10rem;
     max-height: 100%;
 
-    border-radius: 20px;
 }
 .t1{
     
@@ -499,4 +500,8 @@ ul{
     max-width: auto;
 
     font-weight: bolder;
+}
+.x1{
+    padding-top: 2%;
+    padding-bottom: 3%;
 }
