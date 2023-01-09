@@ -251,15 +251,15 @@ body{
         
     }
     .img3{
-        height: 30rem;
-        width:34.375rem;
+        height:55%;
+        width:40%;
         float: left;
-    }
+        }
     .reach-content{
         color: black;
-        float: right;
+        margin-left: 60%;
         padding-top: 7.5rem;
-        gap:1.875rem;
+        
         
     }
     .learn{
@@ -472,4 +472,10 @@ ul{
 }
 .clr{
     color:#31c7b2;
+}
+.re{
+    min-width: 5rem;
+    max-width: auto;
+
+    font-weight: bolder;
 }
