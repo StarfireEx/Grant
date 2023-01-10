@@ -503,7 +503,7 @@ ul{
     
 }
 .clr{
-    color:grey;
+    color:orange;
 }
 .re{
     min-width: 5rem;
@@ -528,3 +528,51 @@ ul{
       transform: translateY(0);
     }
   }
+  .cust{
+    background-image: url('whymendix.png');
+    min-height: 10rem;
+    max-height: auto;
+    min-width: 10rem;
+    max-width: auto;
+    margin:0 auto;
+  }
+  .i1{
+    float: right;
+    height:60%;
+    width:40%;
+    padding-top: 2.5rem;
+  }
+  .i2{
+    height:65%;
+    width:40%;
+    
+  }
+  .c1txt{
+    padding-top: 10rem;
+    padding-left: 1.875rem;
+    padding-bottom: 10rem;
+    padding-right: 3.125rem;
+  }
+  .c2txt{
+    float: right;
+    min-width: 10rem;
+    max-width: auto;
+    min-height: 10rem;
+    max-height: auto;
+    padding-top: 8.75rem;
+    padding-right: 1.875rem;
+    float: right;
+
+  }
+@media screen and (max-width:1130px){
+    .c2txt{
+        font-size: 15px;
+        font-weight: bold;
+    }
+}
+@media screen and (max-width:1060px){
+    .c2txt{
+        font-size: 12px;
+        font-weight: bold;
+    }
+}
