@@ -146,6 +146,7 @@ body{
     padding: 1.25rem;
     background-image: url('wh3.jpg');
     background-repeat: no-repeat;
+    background-position: center;
     background-size: 95rem 55rem;
     padding-right: 1.25rem;
     gap:1.25rem;
@@ -333,10 +334,8 @@ body{
     }
     .footer-contact{
         background-color: #07B773;
-        min-height:5.625rem;
-        max-height: auto;
-        min-width: 5rem;
-        max-width: auto;
+        height:15.625rem;
+        
 width:25%;
         margin-left: 8.125rem;
     padding-top: 4.375rem;
