@@ -433,7 +433,7 @@ width:25%;
 .mission{
     background-image: url('mission-process.png');
     
-    background-size: 56.25rem 25rem;
+    background-size: 56.25rem 24rem;
     padding: 10em 0;
     background-repeat: no-repeat;
     background-position: right;
@@ -461,7 +461,7 @@ ul{
 .more{
     min-width: 10rem;
     max-width: auto;
-    min-height:15rem;
+    min-height:10rem;
     max-height: auto;
     background-color: rgb(226, 218, 218);
     display: flex;
@@ -562,7 +562,20 @@ ul{
     padding-top: 8.75rem;
     padding-right: 1.875rem;
     float: right;
+    
 
+  }
+  .c1txt h1{
+    text-decoration: underline;
+  }
+  .c2txt h1{
+    text-decoration: underline;
+  }
+  .c1txt h2{
+    font-weight: normal;
+  }
+  .c2txt h2{
+    font-weight: normal;
   }
 @media screen and (max-width:1130px){
     .c2txt{
@@ -575,4 +588,9 @@ ul{
         font-size: 12px;
         font-weight: bold;
     }
+}
+.card:hover{
+    height:13.625rem ;
+    width:28.25rem;
+    
 }
