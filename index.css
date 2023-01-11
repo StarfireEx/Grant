@@ -593,3 +593,51 @@ ul{
     width:28.25rem;
     
 }
+.moreh1{
+    text-align: center;
+    color: black;
+    
+
+}
+.slider{
+    
+    height:250px;
+    position: relative;
+    width: 90%;
+    display: grid;
+    place-items: center;
+    padding-bottom: 70px;
+    overflow: hidden;
+}
+.strack{
+    display: flex;
+    width:calc(250px * 18);
+    animation: scroll 30s linear infinite;
+    
+    gap:40px;
+
+}
+.sli{
+    min-height: 70vh;
+    display: grid;
+    place-items: center;
+    background-color: #e9deff
+
+}
+.slide{
+    height:180px;
+    width: 460px;
+    
+}
+@keyframes scroll {
+    0%{
+        transform: translateX(0);
+    }
+    100%{
+        transform: translateX(calc(-250px * 9));
+    }
+    
+}
+.sli h1{
+    padding-top: 27px;
+}
